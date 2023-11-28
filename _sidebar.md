@@ -31,8 +31,8 @@
         - [1.2.4.2 01~On Page 优化 [3]](/海外推广/Google%20SEO/SEO%20方法论/01~On%20Page%20优化/README.md)
           - [1.2.4.2.1 Technical SEO [4]](/海外推广/Google%20SEO/SEO%20方法论/01~On%20Page%20优化/Technical%20SEO/README.md)
             - 1.2.4.2.1.1 03~网站性能优化 [5]
-              - [1.2.4.2.1.1.1 01~网站速度检测](/海外推广/Google%20SEO/SEO%20方法论/01~On%20Page%20优化/Technical%20SEO/03~网站性能优化/01~网站速度检测/README.md)
-                
+              - [1.2.4.2.1.1.1 01~网站速度检测 [1]](/海外推广/Google%20SEO/SEO%20方法论/01~On%20Page%20优化/Technical%20SEO/03~网站性能优化/01~网站速度检测/README.md)
+                - [1.2.4.2.1.1.1.1 Lighthouse](/海外推广/Google%20SEO/SEO%20方法论/01~On%20Page%20优化/Technical%20SEO/03~网站性能优化/01~网站速度检测/Lighthouse.md)
               - [1.2.4.2.1.1.2 02~图片优化](/海外推广/Google%20SEO/SEO%20方法论/01~On%20Page%20优化/Technical%20SEO/03~网站性能优化/02~图片优化/README.md)
                 
               - [1.2.4.2.1.1.3 03~CDN 缓存](/海外推广/Google%20SEO/SEO%20方法论/01~On%20Page%20优化/Technical%20SEO/03~网站性能优化/03~CDN%20缓存/README.md)
