@@ -2,7 +2,7 @@
     - [1.1 Google SEM](/海外推广/Google%20SEM/README.md)
       
     - [1.2 Google SEO [7]](/海外推广/Google%20SEO/README.md)
-      - 1.2.1 99~参考资料 [4]
+      - [1.2.1 99~参考资料 [4]](/海外推广/Google%20SEO/99~参考资料/README.md)
         - [1.2.1.1 Ranktracker~《SEO 指南》](/海外推广/Google%20SEO/99~参考资料/Ranktracker~《SEO%20指南》/README.md)
           
         - 1.2.1.2 XNBeast [1]
