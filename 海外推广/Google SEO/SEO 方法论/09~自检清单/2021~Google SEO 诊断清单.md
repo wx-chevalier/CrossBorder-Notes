@@ -296,7 +296,7 @@ HTTPS 协议是比 HTTP 更安全的一种协议，目前已经加入 Google 的
 
 ## JavaScript SEO 检查
 
-早期 SEOer 会 “闻 JavaScript 色变”，认为 JavaScript 是对 SEO 不友好的。但 Google 现在已经可以解析 JavaScript 的内容了。 JavaScript SEO 主要检查几个方面：
+早期 SEOer 会 “闻 JavaScript 色变”，认为 JavaScript 是对 SEO 不友好的。但 Google 现在已经可以解析 JavaScript 的内容了。JavaScript SEO 主要检查几个方面：
 
 - JavaScript 内容是否可被 googlebot 识别：可以通过 GSC 的实时测试，看 Googlebot 是否能识别到 JavaScript 内容
 - 链接是否对 SEO 友好：链接的 `href` 值需要是正常链接，而不是 JavaScript 链接
