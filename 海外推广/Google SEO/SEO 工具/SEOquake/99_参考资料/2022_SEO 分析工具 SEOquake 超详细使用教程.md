@@ -41,7 +41,7 @@ SEOquake 主要由几个工具组成，分别是 SEObar，SERP overlay ，SEO Da
 - L：即 Link，当前结果页面的反向链接（也即外链）数量；
 - LD：即 Link Subdomain，当前网站子域（[http://www.xxx.com](https://link.zhihu.com/?target=http%3A//www.xxx.com)）的反向链接数量；
 - LRD：即 Link Root Domain，当前网站根域（[http://xxx.com](https://link.zhihu.com/?target=http%3A//xxx.com)）的反向链接数量；
-- Bing Index：上图 LRD 参数旁边的黄色小图标（Bing 在 2013~2016 使用的 Logo），指 Bing（微软旗下的互联网搜索引擎） 对当前网站的索引量；
+- Bing Index：上图 LRD 参数旁边的黄色小图标（Bing 在 2013_2016 使用的 Logo），指 Bing（微软旗下的互联网搜索引擎） 对当前网站的索引量；
 - Rank：Alexa 网站排名；
 - whois：查看域名 IP 及所有者等信息；
 - </>source：查看当前页面的源代码；
