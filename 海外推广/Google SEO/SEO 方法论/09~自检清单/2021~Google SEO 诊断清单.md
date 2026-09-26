@@ -120,8 +120,6 @@ Description 是网页中的 `<meta name="description">` 字段，主要是网页
 
 另外，keywords 字段已经被 Google 忽略了，没有任何意义。所以一般情况下 keywords 可以不设置，或者跟 Title 一致。
 
-> 《在搜索结果中显示良好的标题和摘要》https://developers.google.com/search/docs/advanced/appearance/good-titles-snippets
-
 ## 图片是否提交和优化
 
 很多朋友认为图片只是 SEO 中的一项优化元素，其实图片的流量价值很高，之前在 alibaba 和 aliexpress 每天都有较大规模的流量来自图片。而且 Google 现在图片搜索中也加入了产品的标签以及库存信息，方便用户在图片搜索时直接浏览和转化。所以，图片优化可以跟网页优化同一等级来看。下图红框部分带有 Product 标志的是电商产品。
